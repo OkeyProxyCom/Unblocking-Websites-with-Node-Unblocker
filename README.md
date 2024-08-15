@@ -6,7 +6,7 @@ Integrating Proxy and Node Unblocker.
 Proxies function as intermediaries between your scraping tool and the target website, concealing your IP address. There are several types of proxies:
 
 Data Center Proxies: These are provided by data centers and are fast but easily detectable.
-[Residential Proxies](https://www.okeyproxy.com/): These are assigned by Internet Service Providers (ISPs) to homeowners, making them harder to detect.
+[Residential Proxies](https://www.okeyproxy.com/en/residential-proxies): These are assigned by Internet Service Providers (ISPs) to homeowners, making them harder to detect.
 Rotating Proxies: These change the IP address for each request, complicating detection efforts by the target site.
 Node Unblocker assists in managing IP rotation and can integrate with proxy services to boost scraping efficiency. Services like ScraperAPI and Crawlera (now Zyte) offer built-in proxy rotation and node blocking.
 
